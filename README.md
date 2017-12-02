@@ -1,2 +1,2 @@
-# Sky2TestSPA
-This repository is for Sky2 Test SPA applications.
+# skyux-template
+Template for SKY UX applications created by the SKY UX CLI
